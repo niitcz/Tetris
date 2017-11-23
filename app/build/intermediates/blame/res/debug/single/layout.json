@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\360 browser\\code\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "D:\\360 browser\\code\\Tetris\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "D:\\360 browser\\code\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tetris_activity_aw.xml",
+        "source": "D:\\360 browser\\code\\Tetris\\app\\src\\main\\res\\layout\\activity_tetris_activity_aw.xml"
+    },
+    {
+        "merged": "D:\\360 browser\\code\\Tetris\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\360 browser\\code\\Tetris\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
